@@ -1,7 +1,7 @@
 # Hi! 👋
 # About me: 
 
-- 🔭 | I’m currently working on shorten-link.ml 
+- 🔭 | I’m currently working on shorten-link.ml (11%)
 - 🌱 | I’m currently learning Node.js & Bootstrap 4
 - 👓 | My page: https://korrumzdev.ml
 - 📞 | You can contact me with e-mail: contact@korrumzdev.ml
