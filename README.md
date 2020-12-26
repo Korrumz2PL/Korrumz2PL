@@ -15,4 +15,4 @@
 **My editors:**
 - VisualStudioCode (reserve)
 - AptanaStudio (for WWW projects)
-- IntelliJ IDEA 
+- IntelliJ IDEA (general)
