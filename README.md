@@ -4,20 +4,15 @@
                                                                   O mnie: 
 **********************************************************************************************************************************************************************************
 
-- 🔭 | Pracuję nad skyndalex.tk
+- 🔭 | Pracuję nad botem skyndalex --> skyndalex.tk
 - 🎥 | Kanał: https://www.youtube.com/channel/UCjgd2TINShYn-DNTiEpjNAg?view_as=subscriber
 **********************************************************************************************************************************************************************************
-                                                               Używam:
+                                                                  Używam:
 **********************************************************************************************************************************************************************************
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> - JavaScript  || <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  - Node.Js
+- <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> - JavaScript   - - <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  - Node.Js
 **********************************************************************************************************************************************************************************
                                                                Używam edytorów:
 **********************************************************************************************************************************************************************************
 - VisualStudioCode (reserve)
 - IntelliJ IDEA  
-***********************************************************************************************************************************************************************************
-
-                                    Please star my repositores, donate, visit my twitter and youtube channel!
-  
-***********************************************************************************************************************************************************************************
