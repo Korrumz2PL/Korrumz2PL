@@ -1,18 +1,14 @@
-# Hi! 👋
-
-**********************************************************************************************************************************************************************************
-                                                                  O mnie: 
-**********************************************************************************************************************************************************************************
-
-- 🔭 | Pracuję nad botem skyndalex --> skyndalex.tk
-- 🎥 | Kanał: https://www.youtube.com/channel/UCjgd2TINShYn-DNTiEpjNAg?view_as=subscriber
-**********************************************************************************************************************************************************************************
-                                                                  Używam:
-**********************************************************************************************************************************************************************************
-
-- <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> - JavaScript   - - <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  - Node.Js
-**********************************************************************************************************************************************************************************
-                                                               Używam edytorów:
-**********************************************************************************************************************************************************************************
-- VisualStudioCode (reserve)
-- IntelliJ IDEA  
+# Witaj na moim profilu
+Jestem pozytywnym człowiekiem lubiący słuchać starej muzyki. Interesuję się programowaniem i astronomią.
+# Co ja tu robię?
+Na moim githubie możesz znaleźć repozytorium kriveBota i projekty stworzone dla zabawy/nie na poważnie. Wszystko inne jest prywatne.
+# Discord
+entity#2137
+# Szybkie q&a
+1. Czy jestem za PIS'em?
+***** *** 
+2. Jak długo jestem już na discordzie
+69 lat. Dokładniej w 2021 już 3 lata
+3. W jakie gry gram?
+- minecraft
+- Subnutica, subnautica below zero 
