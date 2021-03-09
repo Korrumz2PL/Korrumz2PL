@@ -6,7 +6,7 @@ Na moim githubie możesz znaleźć repozytorium kriveBota i projekty stworzone d
 entity#2137
 # Szybkie q&a
 1. Czy jestem za PIS'em?
-***** *** 
+`***** ***`
 2. Jak długo jestem już na discordzie
 69 lat. Dokładniej w 2021 już 3 lata
 3. W jakie gry gram?
