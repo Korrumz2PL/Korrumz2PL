@@ -12,3 +12,10 @@ entity#2137
 #### W jakie gry gram?
 - minecraft
 - Subnutica, subnautica below zero 
+#### Jakich edytorów używam
+Generalnie IntelliJ IDEA. Czasem posiedzę w VSC.
+#### Czego nie lubię?
+1. Dzieci, które mnie obrażają nawet mnie nie znając
+2. Fortnit'a
+3. PIS'u
+4. NSFW, NSFL 
