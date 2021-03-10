@@ -4,7 +4,7 @@ Jestem pozytywnym człowiekiem lubiący słuchać starej muzyki. Interesuję si�
 Na moim githubie możesz znaleźć repozytorium kriveBota i projekty stworzone dla zabawy/nie na poważnie. Wszystko inne jest prywatne.
 ### Discord
 entity#2137
-# Szybkie q&a
+# q&a
 ### Czy jestem za PIS'em?
 `***** ***`
 #### Jak długo jestem już na discordzie
