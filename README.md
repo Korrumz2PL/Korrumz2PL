@@ -8,6 +8,6 @@ Witaj na moim profilu
 # Kontakt discord 
 entity#2137 (nick zmieniam co 5 sekund)
 # Statystyki 
-<img src="https://github-readme-stats.vercel.app/api?username=Korrumz2PL&theme=blue-green"> </img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korrumz2PL&theme=blue-green"> </img>
+<img src="https://github-readme-stats.vercel.app/api?username=Korrumz2PL&theme=blue-black"> </img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korrumz2PL&theme=blue-black"> </img>
  
